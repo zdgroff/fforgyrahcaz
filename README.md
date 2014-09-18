@@ -1,4 +1,4 @@
-fforgyrahcaz
-============
+GitHub practice!
+================
 
-Training practice repo
+This example project is designed to provide GitHub practice to the Dean Team. :thumbsup:
