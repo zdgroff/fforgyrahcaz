@@ -14,7 +14,7 @@ summarize price weight length
 sort price
 list weight length in 1/10
 
-tabulate weight if price > 10000
+tabulate weight if price > 20000
 
 assert inlist(foreign, 0, 1)
 bys foreign: summarize price
