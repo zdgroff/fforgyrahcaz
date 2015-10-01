@@ -23,3 +23,6 @@ bys foreign: summarize price
 
 *Create codebook.
 cbook
+
+*Create a new line.
+ds
