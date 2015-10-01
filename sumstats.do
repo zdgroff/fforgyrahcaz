@@ -18,3 +18,6 @@ tabulate weight if price > 20000
 
 assert inlist(foreign, 0, 1)
 bys foreign: summarize price
+
+*Create codebook.
+cbook
