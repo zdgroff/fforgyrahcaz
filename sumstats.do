@@ -1,3 +1,5 @@
+*This file was modified by Zach to test branching.
+
 * Calculate some summary statistics for auto.dta.
 
 version 10
